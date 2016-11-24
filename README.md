@@ -1,6 +1,6 @@
 # *Python* on *Jupyter*
 After this tutorial you will be able to 
-* be able to write and execute *Python* code in *Jupyter* notebooks
+* be able to write and execute *Python* code in *Jupyter Notebooks*
 * use *Python* variables of the most common data types, functions, for-loops, if-statements and package imports
 * use *numpy* arrays to perform basic calculations with sequences of values
 * visualise your 1D data with *matplotlib*
