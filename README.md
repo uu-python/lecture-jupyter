@@ -6,7 +6,7 @@ After this tutorial you will be able to
 * visualise your 1D data with *matplotlib*
 
 ## Get started
-For this lecure, you need *jupyter*, *numpy*, *matplotlib*, and *pandas* to be installed on your computer (most likely this is already the case). If not install these packages from the command line with the package manager *pip* (more info: [https://pip.pypa.io/en/stable/user_guide/#installing-packages]).
+For this lecure, you need *jupyter*, *numpy*, *matplotlib*, and *pandas* to be installed on your computer (most likely this is already the case). If not install these packages from the command line with the package manager *pip* ([more info](https://pip.pypa.io/en/stable/user_guide/#installing-packages)).
 
 Open a Terminal window and download a copy of this repository (clone). Navigate into the folder of this repository and type:
 
